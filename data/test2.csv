@@ -1,0 +1,7 @@
+product,price,quantity,sold
+Laptop,12000.50,15,yes
+Mouse,250.00,120,no
+Keyboard,850.75,45,yes
+Monitor,3200.00,20,yes
+Headphones,1500.25,60,no
+Webcam,NA,30,yes

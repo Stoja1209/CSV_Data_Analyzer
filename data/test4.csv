@@ -1,0 +1,16 @@
+employee_id,name,department,salary,bonus,start_date,active
+1001,Alice Johnson,Engineering,85000.00,5000.00,2019-03-15,true
+1002,Bob Smith,Marketing,62000.00,,2018-07-01,true
+1003,Charlie Brown,Engineering,91000.00,7500.00,2017-01-20,false
+1004,Diana Prince,Finance,78000.00,3000.00,2020-11-05,true
+1005,Eve Adams,Engineering,95000.00,8500.00,2016-05-12,true
+1006,Frank Castle,Marketing,,2000.00,2021-02-18,false
+1007,Grace Hopper,Engineering,105000.00,12000.00,2015-09-01,true
+1008,Henry Ford,Finance,71000.00,,2019-06-30,true
+1009,Ivy Chen,Marketing,66000.00,4000.00,2020-08-14,true
+1010,Jack Ryan,Engineering,88000.00,6000.00,2018-04-22,false
+1011,Karen Page,Finance,73000.00,,2021-05-10,true
+1012,Leo Messi,Engineering,115000.00,15000.00,2014-07-15,true
+1013,Mona Lisa,Marketing,58000.00,2500.00,2022-01-03,true
+1014,Nina Simone,Finance,69000.00,3500.00,2019-09-19,false
+1015,Oscar Wilde,Engineering,99000.00,9000.00,2017-12-01,true
